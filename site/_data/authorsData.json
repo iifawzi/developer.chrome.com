@@ -125,5 +125,23 @@
     "github": "dotproto",
     "glitch": "dotproto",
     "image": "image/WlD8wC6g8khYWPJUsQceQkhXSlv1/ET2qKakhhrDt1sqjazmy.jpg"
+  },
+  "jecelynyeen": {
+    "name": {
+      "given": "Jecelyn",
+      "family": "Yeen"
+    },
+    "org": {
+      "name": "TODO",
+      "unit": "TODO"
+    },
+    "country": "TODO",
+    "twitter": "TODO",
+    "github": "TODO",
+    "glitch": "TODO",
+    "descriptions": {
+      "en": "TODO"
+    },
+    "image": "image/BrQidfK9jaQyIHwdw91aVpkPiib2/4HPVWldl8gHYH8npWFHu.jpg"
   }
 }
